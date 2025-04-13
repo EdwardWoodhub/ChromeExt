@@ -10,11 +10,11 @@ Provided by Gemini 2.0 Flash Thinking.
 
 **Author:** So, the Heritage Foundation's Project 2025 is pretty clear about how it sees things, right? It's like, "America is split between 'woke revolutionaries' and those who believe in the good old American Revolution." 
 
-**Mike Gonzalez and Armen Tooloee:** Exactly! And we spelled it out in the Wall Street Journal. To kill off "woke," the White House needs to grab control of museums, especially the Smithsonian. [cite: 1, 2]
+**Mike Gonzalez and Armen Tooloee:** Exactly! And we spelled it out in the Wall Street Journal. To kill off "woke," the White House needs to grab control of museums, especially the Smithsonian. 
 
-**Donald Trump:** (Muttering) Project 2025? Never heard of it, and don't care. [cite: 8]
+**Donald Trump:** (Muttering) Project 2025? Never heard of it, and don't care. 
 
-**Author:** That's hard to believe, considering how much you're acting on its ideas. Like this "Restoring Truth and Sanity to American History" executive order. [cite: 4] It claims that professors and curators are trying to rewrite history with a biased narrative, not the truth. [cite: 5]
+**Author:** That's hard to believe, considering how much you're acting on its ideas. Like this "Restoring Truth and Sanity to American History" executive order.  It claims that professors and curators are trying to rewrite history with a biased narrative, not the truth. [cite: 5]
 
 **Donald Trump:** Well, they are! They're saying America's history is all about racism and oppression. [cite: 6, 7] They want everyone to feel ashamed of our country!
 
@@ -40,15 +40,17 @@ Provided by Gemini 2.0 Flash Thinking.
 | ----------- | ----------- | ----------- |
 | 0      |        |        |
 | 1      |  heritage      |  any attribute or immaterial possession that is inherited from ancestors   |
+| 2      |  mutter      |  talk indistinctly; usually in a low voice      |
+| 3      |  sanity      |  normal or sound powers of mind      |
+| 4      |  executive order      |  行政命令     |
+| 5      |  curator      |  the custodian of a collection (as a museum or library)      |
 
 ---
 
 **Passage 2**
 
-**Source:** [cite: 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65]
 
 **Characters:** Seth Rogen, Judd Apatow, Studio Executive, Ike Barinholtz, Kathryn Hahn, Chase Sui Wonders, Michael McCarty
-
 
 
 **Seth Rogen:** My first time dealing with Hollywood execs was when I was seventeen, on "Freaks and Geeks." [cite: 27, 28, 29]
@@ -89,11 +91,9 @@ Provided by Gemini 2.0 Flash Thinking.
 
 **Seth Rogen:** (Laughing) Even he’s nostalgic! [cite: 65]
 
-***
+---
 
 **Passage 3**
-
-**Source:** [cite: 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101]
 
 **Characters:** Narrator, Peter Wolf, Richard Walsh, Scott Pullman, Brendan Buggy, Woman
 
@@ -163,11 +163,9 @@ Provided by Gemini 2.0 Flash Thinking.
 
 **Brendan Buggy:** I was here every damn night. And some of those nights, we’d rather forget. [cite: 101]
 
-***
+---
 
 **Passage 4**
-
-**Source:** [cite: 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118]
 
 **Characters:** Narrator, Sean Duffy, Stan Ciurczak
 
