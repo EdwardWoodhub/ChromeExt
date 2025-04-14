@@ -14,17 +14,17 @@ Provided by Gemini 2.0 Flash Thinking.
 
 **Donald Trump:** (Muttering) Project 2025? Never heard of it, and don't care. 
 
-**Author:** That's hard to believe, considering how much you're acting on its ideas. Like this "Restoring Truth and Sanity to American History" executive order.  It claims that professors and curators are trying to rewrite history with a biased narrative, not the truth. [cite: 5]
+**Author:** That's hard to believe, considering how much you're acting on its ideas. Like this "Restoring Truth and Sanity to American History" executive order.  It claims that professors and curators are trying to rewrite history with a biased narrative, not the truth. 
 
-**Donald Trump:** Well, they are! They're saying America's history is all about racism and oppression. [cite: 6, 7] They want everyone to feel ashamed of our country!
+**Donald Trump:** Well, they are! They're saying America's history is all about racism and oppression.  They want everyone to feel ashamed of our country!
 
-**Author:** But the Smithsonian's just trying to show the complexity of history, like in that "Shape of Power" exhibit. [cite: 8, 9, 10]
+**Author:** But the Smithsonian's just trying to show the complexity of history, like in that "Shape of Power" exhibit. 
 
-**Donald Trump:** That exhibit says race is a social construct, not biology! That's ridiculous. [cite: 10]
+**Donald Trump:** That exhibit says race is a social construct, not biology! That's ridiculous. 
 
-**Author:** Actually, the curators are right. We're all genetically 99.9% the same. [cite: 11, 12] The idea that race is essential leads to terrible bigotry. [cite: 13] And you really laid into the National Museum of African American History and Culture, even though you used to praise it. [cite: 14, 15, 16, 17]
+**Author:** Actually, the curators are right. We're all genetically 99.9% the same.  The idea that race is essential leads to terrible bigotry.  And you really laid into the National Museum of African American History and Culture, even though you used to praise it. 
 
-**Donald Trump:** But this whole "woke" thing... there's no room for complexity! [cite: 18, 19, 20] J.D. Vance is going to fix that at the Smithsonian. He’ll remove all that "improper ideology." [cite: 20, 21]
+**Donald Trump:** But this whole "woke" thing... there's no room for complexity!  J.D. Vance is going to fix that at the Smithsonian. He’ll remove all that "improper ideology." [cite: 20, 21]
 
 **Author:** This obsession with controlling the past isn't new. Autocrats do it all the time. [cite: 22]
 
@@ -42,8 +42,13 @@ Provided by Gemini 2.0 Flash Thinking.
 | 1      |  heritage      |  any attribute or immaterial possession that is inherited from ancestors   |
 | 2      |  mutter      |  talk indistinctly; usually in a low voice      |
 | 3      |  sanity      |  normal or sound powers of mind      |
-| 4      |  executive order      |  行政命令     |
+| 4      |  executive  order      |  行政命令     |
 | 5      |  curator      |  the custodian of a collection (as a museum or library)      |
+| 6      |  narrative      |  a way of presenting or understanding a situation or series of events that reflects and promotes a particular point of view or set of values      |
+| 7      |  racism      |  the prejudice that members of one race are intrinsically superior to members of other races; discriminatory or abusive behavior towards members of another race     |
+| 8      |  race      |  people who are believed to belong to the same genetic stock      |
+| 9      |  bigotry      |  the intolerance and prejudice of a bigot      |
+| 10      |  ideology      |  an orientation that characterizes the thinking of a group or nation      |
 
 ---
 
