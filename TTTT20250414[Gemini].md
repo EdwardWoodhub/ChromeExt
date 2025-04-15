@@ -24,11 +24,11 @@ Provided by Gemini 2.0 Flash Thinking.
 
 **Author:** Actually, the curators are right. We're all genetically 99.9% the same.  The idea that race is essential leads to terrible bigotry.  And you really laid into the National Museum of African American History and Culture, even though you used to praise it. 
 
-**Donald Trump:** But this whole "woke" thing... there's no room for complexity!  J.D. Vance is going to fix that at the Smithsonian. He’ll remove all that "improper ideology." [cite: 20, 21]
+**Donald Trump:** But this whole "woke" thing... there's no room for complexity!  J.D. Vance is going to fix that at the Smithsonian. He’ll remove all that "improper ideology." 
 
-**Author:** This obsession with controlling the past isn't new. Autocrats do it all the time. [cite: 22]
+**Author:** This obsession with controlling the past isn't new. Autocrats do it all the time. 
 
-**Author:** Think about the Soviet Union. Their history museums were all about worshipping Lenin, not questioning his legacy. [cite: 23, 24, 25, 26] When Gorbachev tried to open things up, it was a big deal. [cite: 27, 28, 29, 30, 31, 32, 33]
+**Author:** Think about the Soviet Union. Their history museums were all about worshipping Lenin, not questioning his legacy.  When Gorbachev tried to open things up, it was a big deal. 
 
 **Yegor Ligachev:** (Complaining) Taking history away from the Party just makes everyone gloomy. We need positive, shining stories! Not all this anti-Soviet stuff. [cite: 33, 34, 35, 36, 37, 38]
 
@@ -49,6 +49,11 @@ Provided by Gemini 2.0 Flash Thinking.
 | 8      |  race      |  people who are believed to belong to the same genetic stock      |
 | 9      |  bigotry      |  the intolerance and prejudice of a bigot      |
 | 10      |  ideology      |  an orientation that characterizes the thinking of a group or nation      |
+| 11      |  obsession      |  a persistent disturbing preoccupation with an often unreasonable idea or feeling      |
+| 12      |  autocrat      |  a cruel and oppressive dictator      |
+| 13      |  worship      |  love unquestioningly and uncritically or to excess; venerate as an idol      |
+| 14      |  legacy      |  (law) a gift of personal property by will      |
+| 15      |  gloomy      |  characterized by hopelessness; filled with gloom     |
 
 ---
 
