@@ -10,7 +10,7 @@ Provided By Gemini 2.0 Flash Thinking.
 
 **Setting**: A conversation about tariffs.
 
-***
+---
 
 **Author**: Mr. President, your recent tariffs have caused quite a stir.
 
@@ -34,7 +34,11 @@ Provided By Gemini 2.0 Flash Thinking.
 
 **Author**: But trade wars aren’t zero-sum. Everyone can lose. [cite: 49]
 
-***
+| Index      | Words      | Description |
+| ----------- | ----------- | ----------- |
+| 0      |        |        |
+
+---
 
 **Dialogue 2**
 
