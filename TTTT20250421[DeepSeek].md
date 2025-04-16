@@ -15,6 +15,10 @@ Provided By DeepSeek R1.
 **Author:**  
 (Commenting) Trump’s tariffs were so slapdash, they taxed penguin-populated Antarctic islands. Markets tanked $6 trillion in days. Jamie Dimon warned of recession, and even GOP senators like Thom Tillis are asking, *"Whose throat do I choke if this blows up?"* But Trump’s just pivoting, not retreating—leaving 10% tariffs on most nations and slapping China with 100%. The White House thinks this’ll lure factories back, but businesses need stability, not 90-day policy whiplash.  
 
+| Index      | Words      | Description |
+| ----------- | ----------- | ----------- |
+| 0      |        |        |
+
 ---
 
 **Article 2: "Been There Dept. – Market-Crash Survivors"**  
