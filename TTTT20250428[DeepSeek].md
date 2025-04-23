@@ -3,9 +3,8 @@
 Provided By DeepSeek R1.
 
 ---
-**Title: COMMENT COUNTING THE WAYS**
-
-**Participants: Jonathan Blitzer (Author), Nayib Bukele (President of El Salvador), Donald Trump (Former U.S. President), Stephen Miller (Deputy White House Chief of Staff), Chris Van Hollen (Maryland Senator).**
+**Title: COMMENT COUNTING THE WAYS**  
+**Participants:** *Jonathan Blitzer (Author), Nayib Bukele (President of El Salvador), Donald Trump (Former U.S. President), Stephen Miller (Deputy White House Chief of Staff), Chris Van Hollen (Maryland Senator).*
 ---
 
 **Jonathan Blitzer (Author):** Let’s start with El Salvador. President Bukele, your “state of exception” led to 85,000 arrests in a country of six million. Over 360 deaths reported by Cristosal. Critics call it authoritarian. How do you respond?  
