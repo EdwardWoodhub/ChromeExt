@@ -50,3 +50,15 @@ Provided By DeepSeek R1.[单独生成每一篇]
 **Bukele:** (laughing) Welcome to the new playbook.
 
 ---
+
+| Index      | Words      | Description |
+| ----------- | ----------- | ----------- |
+| 0      |        |        |
+| 1      |  El Salvador      |  萨尔瓦多共和国      |
+| 2      |  critic      |  a person who is professionally engaged in the analysis and interpretation of works of art      |
+| 3      |        |        |
+| 4      |        |        |
+| 5      |        |        |
+
+---
+
