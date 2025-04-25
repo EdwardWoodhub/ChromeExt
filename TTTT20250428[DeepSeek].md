@@ -56,9 +56,9 @@ Provided By DeepSeek R1.[单独生成每一篇]
 | 0      |        |        |
 | 1      |  El Salvador      |  萨尔瓦多共和国      |
 | 2      |  critic      |  a person who is professionally engaged in the analysis and interpretation of works of art      |
-| 3      |        |        |
-| 4      |        |        |
-| 5      |        |        |
+| 3      |  authoritarian      |  专制者,独裁者；威权主义      |
+| 4      |  gang      |  a group of persons working to unlawful or antisocial ends      |
+| 5      |  grin      |  to draw back the lips and reveal the teeth, in a smile, grimace, or snarl      |
 
 ---
 
